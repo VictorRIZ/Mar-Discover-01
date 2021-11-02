@@ -1,4 +1,4 @@
-<img src="./projMar.png" alt="Logo Tio finança$$">
+<img src="Mar-Discover-01/projMar.png" alt="Logo Tio finança$$">
 
 # Mar-Discover-01
 
