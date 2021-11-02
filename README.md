@@ -1,3 +1,5 @@
+<img src="./projMar.png" alt="Logo Tio finança$$">
+
 # Mar-Discover-01
 
 Uma aplicação voltada para a área de finanças. Nessa aplicação, é possível 
