@@ -1,4 +1,4 @@
-<img src="projMar.png" alt="Imagem do projeto">
+<img src="Finanças(Maratona-Discover)/assets/projMar.PNG" alt="Imagem do projeto">
 
 # Mar-Discover-01
 
